@@ -61,3 +61,37 @@ h1 {
 h2 {
     text-align: center;
 }
+
+.footer {
+    
+    height: 40px;
+    /* Footer would have collapsed
+    if we didn't clear its left side 
+    clear: left;*/
+}
+
+.box1 {
+        display: inline-block;
+        position: absolute;
+        left: 0;
+        margin: 0 auto;
+        width: 25%;
+        background-color: #4a4a4f;
+        
+}
+
+.box2 {
+        display: inline-block;
+        position: absolute;
+        right: 0;
+        margin: 0 auto;
+        width: 25%;
+        background-color: #000000;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

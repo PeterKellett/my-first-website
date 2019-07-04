@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 5%;
     padding: 0;
     font-family: 'Oswald', 'sans-serif'
 }
@@ -50,3 +50,13 @@ h1 {
     text-align: center;
 }
 
+.row1 {
+    margin:auto;
+    display: inline-block;
+    width: 20%;
+    padding: 2%;
+}
+
+h2 {
+    text-align: center;
+}

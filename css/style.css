@@ -64,7 +64,7 @@ h2 {
 
 .footer {
     
-    height: 55px;
+    height: auto;
     /* Footer would have collapsed
     if we didn't clear its left side */
     clear: left;

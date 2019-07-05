@@ -6,13 +6,13 @@
     text-align: center;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 667px) {
     .mobile {
-        background-color: #0997d3;
+        background-color: blue;
     }
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
+@media (min-width: 668px) and (max-width: 991px) {
     .tablet {
         background-color: green;
     }

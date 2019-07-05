@@ -64,7 +64,7 @@ h2 {
 
 .footer {
     
-    height: auto;
+    height: 60px;
     /* Footer would have collapsed
     if we didn't clear its left side */
     clear: left;
@@ -78,6 +78,7 @@ h2 {
         margin: 0 5%;
         padding: 2%;
         width: 33%;
+        height: 40px;
 }
 
 .box2 {
